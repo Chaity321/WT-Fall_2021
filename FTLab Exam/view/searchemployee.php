@@ -9,7 +9,7 @@
 </head>
  <body>
      <h1>Search Employee</h1>
- <form action="/action_page.php">
+ <form>
  <label for="search by id">Search By Id</label><br>
 <input type="text" id="id"><br>
 <label for="search by name">Search By Name</label><br>
